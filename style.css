@@ -1,8 +1,31 @@
 body {
-    background-color:lightsalmon;
+    background-color:rgb(246, 237, 219);
 }
 
-h1 {
+h1, h2 {
     text-align: center;
-    font-family: 'Gill Sans';
+    font-size: x-larger;
+    color: blue;
+    font-family: monospace;
+}
+
+.rectangle {
+    height: 300px;
+    width: 1200px;
+    background-color: peachpuff;
+    margin: 0 auto;
+}
+
+.rectangle2 {
+    height: 300px;
+    width: 1200px;
+    background-color: rgb(248, 210, 140);
+    margin: 0 auto;
+}
+
+.rectangle3 {
+    height: 300px;
+    width: 1200px;
+    background-color: rgb(240, 185, 149);
+    margin: 0 auto;
 }
